@@ -130,7 +130,7 @@ Edusity/
 ## Contact
 
 - **Email**: [kashvishetty2005@gmail.com](mailto:kashvishetty2005@gmail.com)  
-- **GitHub**: [Abe-neazer](https://github.com/Abe-neazer)
+- **GitHub**: [kashvishetty2410](https://github.com/kashvishetty2410)
 
 
 
