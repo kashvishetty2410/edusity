@@ -10,8 +10,6 @@ It features multiple sections including a hero banner, program highlights, campu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
