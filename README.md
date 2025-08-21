@@ -132,7 +132,8 @@ Edusity/
 - **Email**: [kashvishetty2005@gmail.com](mailto:kashvishetty2005@gmail.com)  
 - **GitHub**: [kashvishetty2410](https://github.com/kashvishetty2410)
 
-2022 XYZ, Inc.
+2023 XYZ, Inc.
+
 
 
 
