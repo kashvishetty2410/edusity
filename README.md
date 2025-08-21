@@ -127,10 +127,12 @@ Edusity/
 - **Contact Form**: Users can send messages directly from the site.
 
 
-## Contact
+### Contact
 
 - **Email**: [kashvishetty2005@gmail.com](mailto:kashvishetty2005@gmail.com)  
 - **GitHub**: [kashvishetty2410](https://github.com/kashvishetty2410)
+
+2022 XYZ, Inc.
 
 
 
